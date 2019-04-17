@@ -13,7 +13,7 @@ This repository contains a 8-bit retro styled personal portfolio website that's 
 
 -   Fully responsive
 -   Optimized for mobiles and all browsers
--   A Super Mario Bros inspired [404 Page](https://thekrishna.in/404)
+-   A Super Mario Bros inspired [404 Page](http://thekrishna.in/notfound.html)
 -   Custom Design Cursor icons
 -   Custom Design Social Icons (LinkedIn, Instagram, GitHub, Mail)
 -   Compressed all visual (treats) element for much faster loading times
@@ -25,7 +25,7 @@ The **Pixel Portfolio** is licensed under the terms of the [MIT license](LICENSE
 
 ## Links
 
--   [Website](https://thekrishna.in)
+-   [Website](http://thekrishna.in)
 -   [404 Page](https://thekrishna.in/404)
 -   [Documentation](https://github.com/KrishnaAlagiri/Pixel-Portfolio-Webite/blob/master/docs/documentation.md)
 -   [Issue tracker](https://github.com/KrishnaAlagiri/Pixel-Portfolio-Webite/issues)
