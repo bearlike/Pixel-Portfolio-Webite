@@ -1,0 +1,82 @@
+/*
+*	 Title: Portfolio Effects Stylesheet
+*  Author: Krishna Alagiri (KK)
+*  Repo: https://github.com/KrishnaAlagiri/Potential-Waffle
+*  Issues: https://github.com/KrishnaAlagiri/Potential-Waffle/issues
+*
+*  Description: This file contains all the animations/effects associated with the styles */
+/* Animation Section */
+@keyframes pulsate {
+	from {
+    opacity: 0;
+    transform: translate3d(0, -40%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes Heartbeat {
+  0% {
+    transform: scale(0.9)
+  }
+  50% {
+    transform: scale(0.7)
+  }
+  100% {
+    transform: scale(1.0)
+  }
+}
+/* Fade In Animation */
+#fadein {
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari and Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* Firefox */
+@-moz-keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* Safari and Chrome */
+@-webkit-keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* Opera */
+@-o-keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Slide Effect */
+@keyframes slide {
+  from {
+    background-position: 0 0;
+  }
+
+  to {
+    background-position: -120px 60px;
+  }
+}
