@@ -9,6 +9,8 @@ A Portfolio website completely designed from scratch by me!
 
 This repository contains a 8-bit retro styled personal portfolio website that's created with HTML and CSS. It's light-weight and totally responsive. The site is static, minimalistic and comes production ready. To line up your portfolio website, merely fork the repo and edit its content. Alternatively,  you can also edit designs, colours, and scripts fairly easily. The site was developed as modular as possible to aid easy shifting around designs and its contents.
 
+**For beginners, Fork it and replace the body with the desired content**
+
 ## Features
 
 -   Fully responsive
