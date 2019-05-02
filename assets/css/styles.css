@@ -16,6 +16,7 @@ font-family: "retro1";
 src: url("../../libs/fonts/dpcomic.ttf") format("truetype");
 }
 html {
+scroll-behavior: smooth;
 font-size: 18px;
 -webkit-font-smoothing: antialiased;
 cursor: URL("../../assets/img/cursor/cursor.png"), auto !important;
