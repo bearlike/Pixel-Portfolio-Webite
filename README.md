@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="http://cdn.thekrishna.in/img/common/pixel.png" alt="Pixel-Portfolio Webite" width="800">
+  <img src="http://cdn.thekrishna.in/img/common/pixel_1.png" alt="Pixel-Portfolio Webite" width="800">
   <br>
 </h1>
 
