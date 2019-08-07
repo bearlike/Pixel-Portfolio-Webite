@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  <img src="http://cdn.thekrishna.in/img/common/pixel_1.png" alt="Pixel-Portfolio Webite" width="800">
+  <img src="http://cdn.thekrishna.in/img/common/remote.png" alt="Remote CMD" width="800">
   <br>
 </h1>
 
-<h4 align="center">AA Portfolio website completely designed from scratch by me!</h4>
+<h4 align="center">A Portfolio website completely designed from scratch by me!</h4>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Lang-html%20%7C%20css-lightgrey.svg"></a>
