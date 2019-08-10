@@ -35,6 +35,11 @@ The **Pixel Portfolio** is licensed under the terms of the [MIT license](LICENSE
 
 -   [Website](http://thekrishna.in)
 -   [404 Page](https://thekrishna.in/404)
+
+| Desktop       | Mobile |
+| ------------- | ----------- |
+| <img src="docs/404-desktop.png"  width=320px > | <img src="docs/404-mobile.png" height=180px> |
+
 -   [Documentation](https://github.com/K-Kraken/Pixel-Portfolio-Webite/blob/master/docs/documentation.md)
 -   [Issue tracker](https://github.com/K-Kraken/Pixel-Portfolio-Webite/issues)
 -   [Source code](https://github.com/K-Kraken/Pixel-Portfolio-Webite)
