@@ -22,8 +22,23 @@ This repository contains a 8-bit retro styled personal portfolio website that's 
 -   Fully responsive
 -   Optimized for mobiles and all browsers
 -   A Super Mario Bros inspired [404 Page](http://thekrishna.in/notfound.html)
+
+| Desktop       | Mobile |
+| ------------- | ----------- |
+| <img src="docs/404-desktop.png"  width=420px > | <img src="docs/404-mobile.png" height=280px> |
+
 -   Custom Design Cursor icons
+
+| Default Cursor       | Cursor Hover      | Cursor Edit       |
+| ------------- | ----------- | ------------- |
+| <img src="assets/img/cursor/cursor.png">   | <img src="assets/img/cursor/cursor-click.png" > |  <img src="assets/img/cursor/cursor-edit.png"> |
+
 -   Custom Design Social Icons (LinkedIn, Instagram, GitHub, Mail)
+
+| GithHub       | Instagram      | LinkedIn       | Mail       |
+| ------------- | ----------- | ------------- | ----------- |
+| <img src="assets/img/icons/GitHub.png" height=75px>   | <img src="assets/img/icons/Instagram.png" height=75px> |  <img src="assets/img/icons/LinkedIn.png" height=75px> | <img src="assets/img/icons/Mail.png" height=75px> |
+
 -   Compressed all visual (treats) element for much faster loading times
 
 
