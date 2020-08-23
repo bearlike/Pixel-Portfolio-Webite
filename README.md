@@ -56,7 +56,7 @@ The **Pixel Portfolio** is licensed under the terms of the [MIT license](LICENSE
 
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/K-Kraken">Krishna Alagiri</a>
+  Made with ❤️ by <a href="https://github.com/bearlike">Krishna Alagiri</a>
 </p>
 
 ![wave](http://cdn.thekrishna.in/img/common/border.png)
