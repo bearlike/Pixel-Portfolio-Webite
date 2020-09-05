@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Lang-html%20%7C%20css-lightgrey.svg"></a>
-  <a href="https://thekrishna.in"><img src="https://img.shields.io/website/http/thekrishna.in.svg"></a>
-  <a href="/LICENSE.md"><img src="https://img.shields.io/github/license/K-Kraken/Pixel-Portfolio-Webite.svg?color=blue"></a>
+  <a href="https://thekrishna.in/v1"><img src="https://img.shields.io/website/http/thekrishna.in.svg"></a>
+  <a href="/LICENSE.md"><img src="https://img.shields.io/github/license/bearlike/Pixel-Portfolio-Webite.svg?color=blue"></a>
 </p>
 
 
@@ -48,11 +48,11 @@ The **Pixel Portfolio** is licensed under the terms of the [MIT license](LICENSE
 
 ## Links
 
--   [Website](http://thekrishna.in)
--   [404 Page](https://thekrishna.in/404)
--   [Documentation](https://github.com/K-Kraken/Pixel-Portfolio-Webite/blob/master/docs/documentation.md)
--   [Issue tracker](https://github.com/K-Kraken/Pixel-Portfolio-Webite/issues)
--   [Source code](https://github.com/K-Kraken/Pixel-Portfolio-Webite)
+-   [Website](https://thekrishna.in/v1/index.html)
+-   [404 Page](https://thekrishna.in/notfound.html)
+-   [Documentation](https://github.com/bearlike/Pixel-Portfolio-Webite/blob/master/docs/documentation.md)
+-   [Issue tracker](https://github.com/bearlike/Pixel-Portfolio-Webite/issues)
+-   [Source code](https://github.com/bearlike/Pixel-Portfolio-Webite)
 
 
 <p align="center">
